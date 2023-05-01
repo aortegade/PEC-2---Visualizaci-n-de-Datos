@@ -14,7 +14,7 @@ En el ejemplo se muestran una serie de puntos que representan vehículos. En est
 
 Dataset: https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data
 
-## 3. Dendogram Circular:
+## 3. Dendograma Circular:
 Técnica de visualización en la que se muestra la distribución de datos siguiendo un flujo de etiquetas de variables categóricas.
 En el dataset del ejemplo se muestra la distribución de notas en un examen de matemáticas, en función de una serie de variables que afectan al alumno (género, grupo étnico, horas semanales de estudio, etc.).
 
